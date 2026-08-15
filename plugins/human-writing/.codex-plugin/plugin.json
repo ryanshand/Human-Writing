@@ -1,0 +1,28 @@
+{
+  "name": "human-writing",
+  "version": "0.1.0",
+  "description": "Draft and revise natural, voice-consistent general prose and fiction.",
+  "author": {
+    "name": "Ryan Shand",
+    "url": "https://github.com/ryanshand"
+  },
+  "homepage": "https://github.com/ryanshand/Human-Writing",
+  "repository": "https://github.com/ryanshand/Human-Writing",
+  "license": "MIT",
+  "keywords": ["writing", "editing", "humanizer", "fiction", "voice"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Human Writing",
+    "shortDescription": "Natural prose with voice and narrative depth",
+    "longDescription": "Draft or rewrite general prose and fiction with factual fidelity, voice preservation, natural rhythm, and StoryScope-informed narrative judgment.",
+    "developerName": "Ryan Shand",
+    "category": "Productivity",
+    "capabilities": ["Write", "Edit"],
+    "websiteURL": "https://github.com/ryanshand/Human-Writing",
+    "defaultPrompt": [
+      "Rewrite this in my voice and return only the final prose.",
+      "Draft a natural version of this message from my facts.",
+      "Revise this story without flattening its voice."
+    ]
+  }
+}

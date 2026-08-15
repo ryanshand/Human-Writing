@@ -1,0 +1,4 @@
+interface:
+  display_name: "Human Writing"
+  short_description: "Draft and revise natural, distinctive prose"
+  default_prompt: "Use $human-writing to rewrite this text in my voice and return only the final prose."
